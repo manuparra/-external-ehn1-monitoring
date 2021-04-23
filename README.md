@@ -31,7 +31,7 @@ It is designed using GRANAFA's API REST, which guarantees the continuity and uni
 
 ## Testing enviroment
 
-The testing environment is deprecated and now is working in production in: http://np-cmp.web.cern.ch/
+The testing environment is deprecated and now is working in production in: http://np-cmp.web.cern.ch/ (deployed, but cluster is power down).
 
 ## How to calculate  the cluster room temperature
 
