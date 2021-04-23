@@ -1,0 +1,5 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+## [Unreleased]
+- Cached system for statistics super-fast in a glance cluster view

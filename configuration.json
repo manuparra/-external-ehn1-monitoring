@@ -1,0 +1,73 @@
+{
+	"head_text":"Welcome to ENH1-NP Cluster Monitoring Tool",
+	"subhead_text":"Real-time monitoring for protoDUNE / DUNE computing infrastructure",
+	"button_subhead_text":"Cluster monitoring",
+
+
+	"left_menu_title":"EHN1-NP Cluster",
+	"left_menu_items": ["Cluster monitoring","protoDUNE/DUNE"],
+
+	"detail_project_title":"Computing infrastructure for:",
+	"_colorhtml_detail_project_title":"#ecb807",
+
+	"detail_project_subtitle":"protoDune / DUNE / High Energy Physics ",
+	"_colorhtml_detail_project_subtitle":"#FFF",
+
+	"detail_project_test":"content/detail.md",
+	"_colorhtml_detail_project_test":"#FFF",
+	"_backgroundcolorhtml_detail_project_test":"#113642",
+	
+
+	"nodes_information":"content/nodes_information.md",
+	"_colorhtml_nodes_information":"#000",
+
+
+	"authors":"Neutrino Platform Computing Admins",
+	"copyright_text":"Copyright © CERN 2018.",
+
+
+	"racks":12,
+	"nodes_rack":25,
+	"nodes_prefix":"np-cmp-",
+	"domain":".cern.ch",
+	
+	
+	"template_nodes":
+	{
+		"cpu": {
+			"id":"8833",
+			"q":"",
+			"db": "monit_production_collectd"
+		},
+		
+		"network": {
+			"id":"8836",			
+			"db":"monit_production_collectd"
+		},
+		"sysload": {
+			"id":"8837",
+			"db": "monit_production_collectd"
+		},
+		"uptime": {
+			"id":"8847",
+			"q":"",
+			"db": "monit_production_collectd"
+		},
+		"disk": {
+			"id":"8834",
+			"q":"",
+			"db": "monit_production_collectd"
+		},
+		"node_temperature": {
+			"id":"8859",
+			"q":"",
+			"db": "monit_production_neutrino"
+		}
+		
+	}
+
+
+
+}
+
+
