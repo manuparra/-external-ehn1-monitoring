@@ -18,7 +18,7 @@ Table of Content:
 
 This is the repository of a new complementary Monitoring Web Tool for the EHN1 Cluster (aprox. 200 computing nodes).
 This application allows to know the state of the nodes of the cluster, both in a general and individualized way. 
-It is designed using GRANAFA's API REST, which guarantees the continuity and uniformity of the data in accordance with the data exchange interface proposed in CERN in this document: http://monit-docs.web.cern.ch/monit-docs/access/monit_grafana.html (See SubSection **Grafana Proxy**).
+It is designed using GRANAFA's API REST, which guarantees the continuity and uniformity of the data in accordance with the data exchange interface proposed in CERN in this document: https://monit-docs.web.cern.ch/ (See SubSection **Grafana Proxy**).
 
 ## Features
 
